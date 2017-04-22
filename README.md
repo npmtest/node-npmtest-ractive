@@ -1,4 +1,7 @@
-# test coverage for  [ractive (v0.8.12)](http://ractivejs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-ractive.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ractive) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ractive.svg)](https://travis-ci.org/npmtest/node-npmtest-ractive)
+# npmtest-ractive
+
+#### basic test coverage for  [ractive (v0.8.12)](http://ractivejs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-ractive.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ractive) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ractive.svg)](https://travis-ci.org/npmtest/node-npmtest-ractive)
+
 #### Next-generation DOM manipulation
 
 [![NPM](https://nodei.co/npm/ractive.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ractive)
@@ -80,7 +83,8 @@
         "url": "git+https://github.com/ractivejs/ractive.git"
     },
     "scripts": {},
-    "version": "0.8.12"
+    "version": "0.8.12",
+    "bin": {}
 }
 ```
 
